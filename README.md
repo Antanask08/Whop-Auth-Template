@@ -1,7 +1,6 @@
 Whop Key System Template
 
 
-Made By Antanas
-
+# I do not own whop or their api
 
 https://whop.io
